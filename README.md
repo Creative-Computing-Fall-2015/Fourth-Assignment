@@ -22,6 +22,14 @@ This homework is in two parts!
 - take a screenshot (cmd+shift+4) of your reproduction
 - add the screenshot to your porfolio with short description. you can either copy all your files over to "assignment_004" or just update your site in the "assignment_003" folder.
 - e-mail me the link by Thursday @ Midnight along with 2 questions about HTML/CSS or Processing
+
+# SAMPLE CODE
+
+- click the following URL: http://ccfall2015.chrisallick.com/assignment_004/allickc/samples.zip
+- that will download a "zip" file with two folders in it
+- unzip and move the the folders to your "Processing" folder.
+- you can then double click the .pde files and they will open in processing.
+- you can use the Assignment004 one to start from.
  
 # THE ANCIENT DRAWING
 
