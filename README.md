@@ -22,5 +22,9 @@ This homework is in two parts!
 - take a screenshot (cmd+shift+4) of your reproduction
 - add the screenshot to your porfolio with short description. you can either copy all your files over to "assignment_004" or just update your site in the "assignment_003" folder.
 - e-mail me the link by Thursday @ Midnight along with 2 questions about HTML/CSS or Processing
+ 
+# THE ANCIENT DRAWING
+
+![](http://i.imgur.com/QaMGBnH.jpg)
 
 Thanks!
